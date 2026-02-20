@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MOHAMED ABDULLAH A </h3>
-<h3>Register Number/Staff Id: 212224020029</h3>
+<h3>Name: KOTTESHWARI M </h3>
+<h3>Register Number/Staff Id: 212224020023</h3>
 
 
 <h3>AIM:</h3>
